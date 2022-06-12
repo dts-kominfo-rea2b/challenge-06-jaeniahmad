@@ -18,7 +18,9 @@ let modifyFile3 = (val) => {
 
 // TODO: Kerjakan bacaData
 // gunakan variabel file1, file2, dan file3
-const bacaData = null;
+const bacaData = (fnCallback){
+
+};
 
 // ! JANGAN DIMODIFIKASI
 module.exports = {
